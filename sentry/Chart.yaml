@@ -1,0 +1,14 @@
+apiVersion: v1
+appVersion: 9.1.2
+deprecated: true
+description: DEPRECATED - Sentry is a cross-platform crash reporting and aggregation
+  platform.
+home: https://sentry.io/
+icon: https://sentry-brand.storage.googleapis.com/sentry-glyph-black.png
+keywords:
+- debugging
+- logging
+name: sentry
+sources:
+- https://github.com/getsentry/sentry
+version: 4.3.3
